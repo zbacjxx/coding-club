@@ -43,5 +43,7 @@ Windows:
 
     cd %USERPROFILE%\workspace\coding-club
 ## Now start a lab session
-jupyter lab
+We are now good to go, run the following command to fire up Jupyter Lab:
+
+    jupyter lab
 
